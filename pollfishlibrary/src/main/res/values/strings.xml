@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Pollfish</string>
+    <string name="close_button">Close Button</string>
+</resources>

@@ -1,0 +1,2 @@
+include ':app', ':pollfishlibrary'
+rootProject.name='PollfishClient'
