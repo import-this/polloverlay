@@ -9,6 +9,7 @@
     tools:showIn="@layout/activity_main">
 
     <Button
+        android:id="@+id/open_poll"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginLeft="16dp"

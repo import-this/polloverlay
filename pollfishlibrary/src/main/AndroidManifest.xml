@@ -6,11 +6,6 @@
 
     <application
         android:theme="@style/AppTheme">
-        <activity
-            android:name=".view.PollfishActivity"
-            android:screenOrientation="portrait"
-            android:theme="@style/AppTheme.NoActionBar">
-        </activity>
     </application>
 
 </manifest>
